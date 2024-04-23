@@ -22,3 +22,14 @@ The image classifier is trained to classify images from the CIFAR-10 dataset int
 
    ```bash
    git clone https://github.com/yourusername/deep-image-classifier.git
+
+2. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Run main.py
+
+   ```
+   python main.py
+
