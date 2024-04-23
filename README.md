@@ -5,11 +5,10 @@ This project implements a deep learning-based image classifier using Convolution
 ## Technologies Used
 
 - `Python`
-- **TensorFlow**: Deep learning framework used for building and training the model.
-- **Keras**: High-level neural networks API used for building and training deep learning models.
-- **NumPy**: Library used for numerical computing.
-- **Matplotlib**: Library used for data visualization.
-- **OpenCV**: Library used for image processing.
+- `TensorFlow`, `Keras`
+- `NumPy`
+- `Matplotlib`
+- `OpenCV`
 
 
 <p align="center">
