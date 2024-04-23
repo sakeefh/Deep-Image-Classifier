@@ -21,7 +21,7 @@ The image classifier is trained to classify images from the CIFAR-10 dataset int
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/deep-image-classifier.git
+   git clone https://github.com/sakeefh/deep-image-classifier.git
 
 2. Install the required dependencies:
 
