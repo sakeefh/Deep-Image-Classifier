@@ -2,7 +2,7 @@
 
 This project implements a deep learning-based image classifier using Convolutional Neural Networks with the CIFAR-10 dataset. It uses the Keras library from TensorFlow for the model's building and training. The model has been trained to classify images into one of the 10 classes: 
 
-<img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/8a575043-f294-45ee-be97-f8647a5ec232" alt="ImageClassifierv1" width="200" height="200">
+<img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/8a575043-f294-45ee-be97-f8647a5ec232" alt="ImageClassifierv1" width="600" height="600">
 
 
 
