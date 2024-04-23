@@ -5,8 +5,11 @@ This project implements a deep learning-based image classifier using Convolution
 Here are some sample images from the CIFAR-10 Dataset: 
 
 <p align="center">
-  <img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/d992ba97-adbb-473b-8090-b08f90f2c3a8" alt="ImageClassifierv1" width="400" height="400">
+  <img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/d992ba97-adbb-473b-8090-b08f90f2c3a8" alt="ImageClassifierv1" width="500" height="500">
 </p>
+
+<p align="center">Sample Images from the CIFAR-10 Dataset</p>
+
 
 
 
