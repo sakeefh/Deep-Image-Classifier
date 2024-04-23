@@ -32,4 +32,3 @@ The image classifier is trained to classify images from the CIFAR-10 dataset int
 
    ```
    python main.py
-
