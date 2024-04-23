@@ -27,6 +27,12 @@ This project implements a deep learning-based image classifier using Convolution
 ## Example Use Case
 <img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/5d1440ce-6a93-4def-9e09-0f9f9aa9a63f" alt="process" width="900">
 
+## What I Learned
+
+- The reason why images are resized to a fixed size such as 32x32 pixels is because Convolutional Neural Networks (CNNs) typically expect input images of the same size.
+- Resizing images to a fixed size reduces the computational overhead, making training faster and more efficient.
+- I learned how to train deep learning models using real-world datasets like CIFAR-10 and evaluate their performance using metrics like accuracy and loss.
+- I learned about data preprocessing techniques, such as normalization and resizing.
 
 ## Usage
 
