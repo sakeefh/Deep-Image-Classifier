@@ -25,7 +25,7 @@ This project implements a deep learning-based image classifier using Convolution
 - The trained model,`image_classifier.keras`, is saved for future use.
 
 ## Example Use Case
-<img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/5d1440ce-6a93-4def-9e09-0f9f9aa9a63f" alt="process" width="600">
+<img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/5d1440ce-6a93-4def-9e09-0f9f9aa9a63f" alt="process" width="900">
 
 
 ## Usage
