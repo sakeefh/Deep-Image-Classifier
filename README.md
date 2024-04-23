@@ -15,17 +15,14 @@ This project implements a deep learning-based image classifier using Convolution
   <img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/d992ba97-adbb-473b-8090-b08f90f2c3a8" alt="ImageClassifierv1" width="400" height="400">
 </p>
 
+## How it Works
 
-
-## Features
-
-- Loads the CIFAR-10 dataset using Keras.datasets.
-- Preprocesses the image data by normalizing pixel values to the range [0, 1].
-- Visualizes sample images from the dataset with their corresponding class labels.
-- Builds a CNN model using Keras.Sequential with multiple convolutional and pooling layers.
-- Compiles the model with the Adam optimizer and sparse categorical cross-entropy loss.
-- Trains the model on the training data and evaluates its performance on the testing data.
-- Saves the trained model for future use.
+- The script loads the CIFAR-10 dataset using Keras.datasets.
+- The image data is then preprocessed by normalizing pixel values to the range [0, 1].
+- Sample images are first visualized from the dataset with their corresponding class labels.
+- The program then builds a CNN model using Keras.Sequential with multiple convolutional and pooling layers.
+- The model is trained on the training data and evaluates its performance on the testing data.
+- The trained model,`image_classifier.keras`, is saved for future use.
 
 ## Usage
 
