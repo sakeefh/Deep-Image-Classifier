@@ -24,6 +24,10 @@ This project implements a deep learning-based image classifier using Convolution
 - The model is trained on the training data and evaluates its performance on the testing data.
 - The trained model,`image_classifier.keras`, is saved for future use.
 
+## Example Use Case
+
+
+
 ## Usage
 
 1. Clone the repository:
