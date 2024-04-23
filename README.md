@@ -40,6 +40,11 @@ This project implements a deep learning-based image classifier using Convolution
    ```bash
    pip install -r requirements.txt
 
+3. Resize your picture to 32x32x pixels and update the following statement with the image file name
+
+   ```bash
+   img = cv.imread('XYZ.jpg')
+
 3. Run main.py
 
    ```
