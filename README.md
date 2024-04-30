@@ -3,7 +3,6 @@
 This project implements a deep learning-based image classifier using Convolutional Neural Networks with the CIFAR-10 dataset. It uses the Keras library from TensorFlow for the model's building and training. The model has been trained to classify images into its corresponding category. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
 ## Technologies Used
-
 - `Python`
 - `TensorFlow`, `Keras`
 - `NumPy`
