@@ -21,7 +21,7 @@ This project implements a deep learning-based image classifier using Convolution
 3. Sample images are first visualized from the dataset with their corresponding class labels.
 4. The program then builds a CNN model using Keras.Sequential with multiple convolutional and pooling layers.
 5. The model is trained on the training data and evaluates its performance on the testing data.
-6. The trained model,`image_classifier.keras`, is saved for future use.
+6. The trained model,`image_classifier.keras`, is saved for future use
 
 ## Example Use Case
 <img src="https://github.com/sakeefh/Deep-Image-Classifier/assets/91638600/5d1440ce-6a93-4def-9e09-0f9f9aa9a63f" alt="process" width="900">
